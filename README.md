@@ -1,6 +1,6 @@
 # Healthcare-analytics-dashboard
 Healthcare Analytics Dashboard built in Power BI to analyze patient demographics, billing trends, insurance coverage, and medical conditions through interactive visualizations.
-# Healthcare Analytics Dashboard
+
 
 ## Overview
 An interactive Power BI dashboard built to analyze healthcare data and provide insights into patient demographics, billing trends, insurance coverage, and medical conditions.
